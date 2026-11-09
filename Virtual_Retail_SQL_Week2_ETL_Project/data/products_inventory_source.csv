@@ -1,0 +1,6 @@
+sku,product_name,category_name,description,unit_price,cost_price,supplier_name,quantity,warehouse_name
+EL-1001,Wireless Mouse,Electronics,Wireless optical mouse,799.00,450.00,TechSource India,120,Mumbai Central Warehouse
+EL-1002,USB-C Charger,Electronics,30W USB-C charger,1299,800,TechSource India,60,Mumbai Central Warehouse
+HL-2001,Desk Lamp,Home & Living,LED desk lamp,999.00,600.00,Everyday Retail Supply,40,Mumbai Central Warehouse
+EL-1001,Wireless Mouse,Electronics,Wireless optical mouse,799.00,450.00,TechSource India,50,Pune Fulfilment Hub
+EL-1003,Bluetooth Speaker,Electronics,Portable speaker,2499.00,-100,TechSource India,25,Pune Fulfilment Hub

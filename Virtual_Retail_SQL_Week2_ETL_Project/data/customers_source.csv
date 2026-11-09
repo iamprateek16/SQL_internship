@@ -1,0 +1,5 @@
+customer_code,first_name,last_name,email,phone,city,state,postal_code,created_date,status
+C-1001,Aarav,Shah,AARAV.SHAH@example.com,9000000001,Mumbai,Maharashtra,400001,2026-10-01,active
+C-1002,Meera,Patil,meera.patil@example.com,,Pune,Maharashtra,411001,2026/10/03,ACTIVE
+C-1003,Rohan,Desai,rohan.desai@example.com,9000000003,Navi Mumbai,Maharashtra,400706,2026-10-05,active
+C-1004,Anaya,Kulkarni,invalid-email,Mumbai,Maharashtra,400002,2026-10-07,active
